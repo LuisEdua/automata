@@ -1,0 +1,14 @@
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background: aqua;
+}
+
+#green {
+    color: green;
+}
+
+#red {
+    color: red;
+}
